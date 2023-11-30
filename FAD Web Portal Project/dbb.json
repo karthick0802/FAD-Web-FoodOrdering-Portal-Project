@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "W@gmail.com",
+      "pass": "123"
+    },
+    {
+      "email": "",
+      "pass": "",
+      "id": 2
+    },
+    {
+      "email": "fad@g.com",
+      "pass": "1234",
+      "id": 3
+    },
+    {
+      "email": "faa@g.com",
+      "pass": "1236",
+      "id": 4
+    },
+    {
+      "email": "s@gmail.com",
+      "pass": "7894",
+      "id": 5
+    },
+    {
+      "email": "",
+      "pass": "",
+      "id": 6
+    },
+    {
+      "email": "",
+      "pass": "",
+      "id": 7
+    },
+    {
+      "email": "",
+      "pass": "",
+      "id": 8
+    },
+    {
+      "email": "Em@gmail.com",
+      "pass": "3214",
+      "id": 9
+    },
+    {
+      "email": "nagappansabari824@gmail.com",
+      "pass": "7894",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

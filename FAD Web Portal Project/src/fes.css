@@ -1,0 +1,81 @@
+.d1{
+    display:flex;
+    position: relative;
+}
+.l{
+    display: flex;
+    flex-direction: column;
+    gap:2rem;   
+}
+.d2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    margin-top: 3rem;
+    font-style: 0.8rem;
+    font-weight: bold;
+    font-size: medium;
+}
+.d3{
+    display: flex;
+    flex-direction: column;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.d4{
+    width:70%;
+    color:black;
+    font-weight: 700;
+}
+.d5{
+    width:max-content;
+    padding: 1rem;
+    border-radius: 4rem;
+    border: none;
+    color:azure;
+    font-size: 1.1rem;
+    cursor: pointer;
+    background-color: tomato;
+    padding: 1rem 2.5rem;
+}
+.d5:hover{
+    background-color:gray;
+    transform: scale(1.2);
+}
+.r{
+    position: relative;
+}
+.d6{
+    width:38rem;
+    position: absolute;
+    top:-2.1rem;
+    left:-5rem;
+}
+.d7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width:max-content;
+    padding: 0.8rem;
+    border-radius: 4.5rem;
+    top:11.3cm;
+    right:4cm;
+    gap:1rem;
+    background-color: aliceblue;
+    color:tomato;
+}
+.d7>div{
+    background-color: aquamarine;
+    border-radius: 5rem;
+    width:2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:2.5rem;
+}
+.d7:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
